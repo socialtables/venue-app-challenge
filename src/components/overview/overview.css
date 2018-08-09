@@ -1,0 +1,17 @@
+.overview {
+	padding: 32px;
+}
+
+.overview__description p {
+	font-size: 14px;
+}
+
+.overview__info {
+	padding: 32px;
+	background-color: #F8F8F8;
+	font-size: 12px;
+}
+
+.overview__info p, .overview__space__item p {
+	font-size: 12px;
+}

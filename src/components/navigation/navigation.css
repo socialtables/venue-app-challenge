@@ -1,0 +1,27 @@
+/**
+ * You shouldn't have to modify any of this file
+ */
+
+.navigation {
+	height: 40px;
+	padding: 0 32px;
+	border-bottom: 1px solid #5D5D5D;
+}
+
+.navigation a {
+	display: inline-block;
+	margin-right: 20px;
+	padding: 14px 8px 6px 8px;
+	border-bottom: 3px solid transparent;
+	color: #5D5D5D;
+	cursor: pointer;
+}
+
+.navigation a.is-selected, .navigation a.is-selected:hover {
+	color: #B5226E;
+	border-color: #B5226E;
+}
+
+.navigation a:hover {
+	border-color: #5D5D5D;
+}

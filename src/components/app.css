@@ -1,0 +1,13 @@
+/**
+ * You shouldn't have to modify any of this file
+ */
+
+body {
+	font-family: Verdana;
+	margin: 0;
+}
+
+.app {
+	height: 100vh;
+	overflow-y: scroll;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "venue-app-challenge",
+  "version": "1.0.0",
+  "description": "Social Tables Venue App Challenge",
+  "scripts": {
+    "server": "nodemon --watch server --exec node ./server/index.js",
+    "start": "react-scripts start"
+  },
+  "author": "Social Tables",
+  "dependencies": {
+    "apollo-boost": "^0.1.10",
+    "cors": "^2.8.4",
+    "cuid": "^2.1.1",
+    "express": "^4.16.3",
+    "graphql": "^0.13.2",
+    "graphql-server-express": "^1.4.0",
+    "graphql-tag": "^2.9.2",
+    "react": "^16.4.1",
+    "react-apollo": "^2.1.9",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.10.0",
+    "nodemon": "^1.18.3",
+    "react-scripts": "^1.1.4"
+  }
+}

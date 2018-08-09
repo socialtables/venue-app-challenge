@@ -1,0 +1,71 @@
+/**
+ * You shouldn't have to modify any of this file
+ */
+
+.create-review h3 {
+	margin: 0;
+	margin-bottom: 16px;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.create-review__stars {
+	margin-bottom: 12px;
+}
+
+.create-review__stars .star-icon {
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+}
+
+.create-review form {
+	display: flex;
+	flex-direction: column;
+}
+
+.create-review form label {
+	margin: 8px 0;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.create-review form input {
+	margin-bottom: 16px;
+	padding: 8px 16px;
+	font-size: 16px;
+	border: 1px solid #BDBDBD;
+	border-radius: 4px;
+	outline: none !important;
+}
+
+.create-review form textarea {
+	height: 128px;
+	margin-bottom: 24px;
+	padding: 16px;
+	font-size: 16px;
+	border: 1px solid #BDBDBD;
+	border-radius: 4px;
+	outline: none !important;
+}
+
+.create-review input:focus, .create-review textarea:focus {
+	border-color: #000000;
+}
+
+.create-review form button {
+	width: 240px;
+	height: 40px;
+	border: none;
+	border-radius: 4px;
+	background-color: #B5226E;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	cursor: pointer;
+	outline: none !important;
+}
+
+.create-review form button:hover {
+	background-color: #941155;
+}
