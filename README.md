@@ -54,7 +54,7 @@ Without any changes to the starter code, the app should look like [this](#starte
 
 
 ## How to Submit
-Upload all files to a cloud provider of your choice (Dropbox, Google Drive, etc.) and send your link(s) to [apprenticechallenge@socialtables.com](mailto:apprenticechallenge@socialtables.com) with the subject line: `Social Tables Apprentice Challenge`.
+PLease submit a compressed archive(zip, tar) as an attachment to the [job posting](https://jobs.lever.co/socialtables/f2555c1a-0657-4b58-b5fd-1cab2030d4ef).
 
 Please include:
 
@@ -65,7 +65,7 @@ Please include:
 		1. What aspect of your submission are you most proud of, and why?
 		1. What would you work on if you had more time? What features might you add to this type of product?
 		1. Of all the resources (blog posts, tutorials, videos, mentors etc.) you referenced, what was most helpful for you?
-* `YourInitials-code.{tar.gz, zip}` with your code.
+* `YourInitials-code` folder with your code.
 	* Submitting your `node-modules` folder isn't necessary, because we can get it by running `npm install`
 	* You should submit any files you found necessary to change and enough support and explanation so we can reproduce your results. In any case, include all the information in `YourInitials-readme.{md, txt}`.
 * `YourInitials-resume.pdf` containing your resume.
