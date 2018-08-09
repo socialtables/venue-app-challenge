@@ -2,7 +2,7 @@
 
 Thanks for your interest in the Social Tables Apprentice Program!
 
-[Social Tables](https://www.socialtables.com/) engineering is looking for [apprentices](TODO: link-to-description)! The position is a great opportunity to learn and grow on a fantastic team working with fun, exciting technologies. Many of our excellent engineering staff were once apprentices.
+[Social Tables](https://www.socialtables.com/) engineering is looking for [apprentices](https://jobs.lever.co/socialtables/f2555c1a-0657-4b58-b5fd-1cab2030d4ef)! The position is a great opportunity to learn and grow on a fantastic team working with fun, exciting technologies. Many of our excellent engineering staff were once apprentices.
 
 Your task, should you choose to accept it, is to build out some features and styling for a React/GraphQL venue listing web app. Women, LGBTQ+ and people of colour are especially encouraged to apply!
 
@@ -20,6 +20,7 @@ Given the starter code, complete as many of the features listed below as you can
 
 
 ## To Start
+- clone or download this repo
 - run `npm install`
 - run `npm run server` in one console to start the server on port 3001
 - run `npm start` in another console to start the react app on port 3000
@@ -89,21 +90,20 @@ Please include:
 * **Can I post my solution to the Internet/GitHub?**  
 	We ask that you don't. It makes it much harder to evaluate submissions when a completed solution is available for review.
 
-* **Does that mean I should not fork this repo and push changes to it?**  
+* **Does that mean I should not fork this repo and push my changes or solution to my fork or any other public GitHub page?**  
 	Yes.
 
 * **Can I copy someone else's submission, cite it, and submit?**  
 	No.
 
 * **I see a typo.**  
-	Submit a pull request!
-
-* **I still have a question.**  
 	Submit a Github issue.
 
 * **Do I need to support IE8? WebTV? Mosaic?**  
 	No. We will evaluate submissions in Google Chrome.
 
+* **I still have a question.**  
+	Submit a Github issue.
 
 ## A Few Helpful Resources
 * [Introduction to commonly used ES6 features](https://zellwk.com/blog/es6/)
