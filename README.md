@@ -54,9 +54,7 @@ Without any changes to the starter code, the app should look like [this](#starte
 
 
 ## How to Submit
-PLease submit a compressed archive(zip, tar) as an attachment to the [job posting](https://jobs.lever.co/socialtables/f2555c1a-0657-4b58-b5fd-1cab2030d4ef).
-
-Please include:
+Please submit a compressed archive (.zip, .tar) as an attachment to the [job posting](https://jobs.lever.co/socialtables/f2555c1a-0657-4b58-b5fd-1cab2030d4ef) with the following:
 
 * `YourInitials-readme.{md, txt}` containing:
 	* Instructions for running your code
