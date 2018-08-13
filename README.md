@@ -95,7 +95,7 @@ Please submit a compressed archive (.zip, .tar) as an attachment to the [job pos
 	No.
 
 * **I see a typo.**  
-	Submit a Github issue.
+	Submit a pull request!
 
 * **Do I need to support IE8? WebTV? Mosaic?**  
 	No. We will evaluate submissions in Google Chrome.
